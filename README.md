@@ -1,6 +1,6 @@
 Project Name: UninBot
 
-UninBotis an AI-powered conversational agent that allows users to engage in natural language conversations. The chatbot is designed to respond to user input and provide relevant information or recommendations based on the user's needs.
+UninBot an AI-powered conversational agent that allows users to engage in natural language conversations. The chatbot is designed to respond to user input and provide relevant information or recommendations based on the user's needs.
 
 Features:
 
