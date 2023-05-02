@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "tag": "Comprimentos",
+      "Caminhos": [
+        "Oi",
+        "Ola",
+        "Tudo bem?",
+        "Como vai?",
+        "Oi, tudo bem?",
+        "Olá, tudo bem?",
+        "Oi, como vai?",
+        "Olá, como vai?"
+      ],
+      "Respostas": [
+        "Ola sou o UninBot Como posso te ajudar?",
+        "Ola sou o UninBot o o seu BotAssistente Como posso te ajudar?",
+        "Ola sou o Uninbot o bot da Unincor Como posso te ajudar?"
+      ]
+    },
+    {
+      "tag": "Teste",
+      "Caminhos": ["Teste"],
+      "Respostas": [
+        "<a href='https://www.unincor.br/'>Unincor</a>",
+        "<a href='https://sei.unincor.br/'>Sei</a>"
+      ]
+    }
+  ]
+}
+
